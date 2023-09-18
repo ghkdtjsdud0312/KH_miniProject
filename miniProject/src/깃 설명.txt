@@ -8,7 +8,7 @@
 1. git init
 - 저장할 파일의 최종 경로에 init을 한다. init된 공간이 시작점이 됨	
 2. git add .			  init된 dir의 파일을 터미널에 저장?
-3. git commit -m "first commit"	  굳이 할필요 없음. 코멘드 남기는 거
+3. git commit -m "first commit"	  코멘드 남기기
 4. git branch -M master		  master *확인 하기*
 5. git remote add origin 주소(git repository)
 6. git push -u origin master
@@ -20,6 +20,11 @@ git clone 주소
 
 깃 이후
 git add .
+git commit -m
 git push
-
+//
 git pull
+
+
+git status : 현재 깃 상태 확인
+shift + insert 붙여넣기
